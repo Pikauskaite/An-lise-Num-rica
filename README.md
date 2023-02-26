@@ -8,3 +8,5 @@ Trabalho de Cálculo Númerico.
 Daniel Burba RA:11202020738 
 
 Victor Hugo de Sousa Prado RA:11201921486
+
+Thaís Almeida Fernandes dos Santos  RA:11202021328
